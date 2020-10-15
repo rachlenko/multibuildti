@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"evgeny"
+	],
+	"copyright": "Copyright © 2020, evgeny",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "hello"
+}
